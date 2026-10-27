@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dilan Manyenya
+# Dilan Tadiwa Inno Junior Manyenya
 
 ### Software Developer · React & JavaScript · Building practical digital solutions
 
