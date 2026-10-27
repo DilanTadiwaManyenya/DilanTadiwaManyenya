@@ -1,93 +1,120 @@
 <div align="center">
 
-# Dilan Tadiwa Inno Junior Manyenya
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:112B4A,100:2563EB&text=DILAN%20MANYENYA&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20React%20%7C%20JavaScript%20%7C%20Supabase&descAlignY=59&descSize=16&animation=fadeIn" alt="Dilan Tadiwa Inno Junior Manyenya — Software Developer" width="100%" />
 
-### Software Developer · React & JavaScript · Building practical digital solutions
+### Building useful software, one thoughtful experience at a time.
 
 **Tainttzar** · Harare, Zimbabwe 🇿🇼
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](#featured-projects)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DilanTadiwaManyenya)
+[![Explore Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](#-selected-work)
+[![Live Project](https://img.shields.io/badge/LIVE_PROJECT-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://newwaycollege.co.zw/)
+[![Follow](https://img.shields.io/badge/FOLLOW_ON_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DilanTadiwaManyenya)
 
 </div>
 
----
+## About me
 
-## 👨🏽‍💻 About me
+I'm **Dilan Tadiwa Inno Junior Manyenya**, a software developer focused on responsive web applications, school management tools, and clean, accessible interfaces. I combine frontend development with product-design thinking to solve practical problems for schools, businesses, and communities.
 
-I'm a **software developer based in Harare, Zimbabwe**, focused on creating responsive, accessible and useful web experiences. I build websites and web applications for schools, small businesses and community-focused projects, combining **frontend engineering** with **product design**.
+- **Currently building:** school websites, role-based portals, and operational systems
+- **Working with:** React, JavaScript, Tailwind CSS, Vite, and Supabase
+- **Learning and growing through:** [Uncommon.org](https://uncommon.org/)
+- **Interested in:** frontend engineering, UI/UX, education technology, and full-stack development
+- **Open to:** junior software development roles, collaborations, and freelance projects
 
-- 🔭 Building school websites, portals and management tools
-- 🌱 Growing my skills in React, Supabase, backend integration and software architecture
-- 🎓 Learning and building through **Uncommon.org**
-- 🧩 Interested in clean UI/UX, reusable components and solving real problems
-- 🤝 Open to collaboration, junior developer opportunities and meaningful freelance work
-
-## 🛠️ Tech stack
+## Tech toolkit
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Vite](https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF)
 ![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/UI%2FUX_Design-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 </div>
 
-## 🚀 Featured projects
+## Selected work
 
-| Project | What I built | Links |
-| :--- | :--- | :--- |
-| **Reliance Junior & High School** | School website and evolving parent/student/admin portal for academic information and school operations. | [Repository](https://github.com/DilanTadiwaManyenya/Reliance-junior-high-school) |
-| **Corridors of Hope High School** | Responsive school website showcasing academics, facilities and student life. | [Repository](https://github.com/DilanTadiwaManyenya/Corridors-Of-Hope-High-School) |
-| **Fordridge Junior & Senior** | School-focused software and management workflows. | [Repository](https://github.com/DilanTadiwaManyenya/Fordridge-Junior-Senior) |
-| **Commissioner of Oaths** | Service-oriented website with information and booking-focused pages. | [Repository](https://github.com/DilanTadiwaManyenya/commissioner-of-oaths) |
-| **Laden Locs / Locks Artistry** | Responsive site showcasing hairstyling services, gallery and booking calls to action. | [Repository](https://github.com/DilanTadiwaManyenya/Locks-Artistry) |
-| **New Way College** | School website with admissions, academics, gallery and SEO improvements. | [Live website](https://newwaycollege.co.zw/) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🏫 Reliance Junior & High School</h3>
+<p>School website and evolving role-based portal for parents, learners, and administrators.</p>
+<p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code></p>
+<a href="https://github.com/DilanTadiwaManyenya/Reliance-junior-high-school"><strong>View repository →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>📚 Fordridge Junior & Senior</h3>
+<p>School-focused management software with administrative and operational workflows in development.</p>
+<p><code>JavaScript</code> <code>React</code> <code>School Systems</code></p>
+<a href="https://github.com/DilanTadiwaManyenya/Fordridge-Junior-Senior"><strong>View repository →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎓 New Way College</h3>
+<p>Live school website featuring academics, admissions, gallery, and search-engine optimization work.</p>
+<p><code>React</code> <code>Vite</code> <code>SEO</code></p>
+<a href="https://newwaycollege.co.zw/"><strong>Visit live website →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>🏛️ Corridors of Hope High School</h3>
+<p>Responsive school website presenting academics, facilities, values, and student life.</p>
+<p><code>React</code> <code>Tailwind CSS</code> <code>UI/UX</code></p>
+<a href="https://github.com/DilanTadiwaManyenya/Corridors-Of-Hope-High-School"><strong>View repository →</strong></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>⚖️ Commissioner of Oaths</h3>
+<p>Service-oriented website with clear information architecture and booking-focused pages.</p>
+<a href="https://github.com/DilanTadiwaManyenya/commissioner-of-oaths"><strong>View repository →</strong></a>
+</td>
+<td width="50%" valign="top">
+<h3>✂️ Locks Artistry</h3>
+<p>Hair and loc styling showcase with service information, galleries, and booking calls to action.</p>
+<a href="https://github.com/DilanTadiwaManyenya/Locks-Artistry"><strong>View repository →</strong></a>
+</td>
+</tr>
+</table>
 
-> Projects are works in progress and evolve over time. Visit their repositories or live websites for the latest details.
+> **Visual upgrade coming next:** Add real project screenshots to each repository README. Screenshots are intentionally not fabricated here.
 
-## 📊 GitHub activity
+## GitHub activity
 
 <div align="center">
 
-![GitHub contribution streak](https://streak-stats.demolab.com?user=DilanTadiwaManyenya&theme=github-dark-blue&hide_border=true)
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DilanTadiwaManyenya&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=DilanTadiwaManyenya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub account statistics" height="165" />
+<img src="https://streak-stats.demolab.com?user=DilanTadiwaManyenya&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" height="165" />
 
 </div>
 
-## 🇿🇼 Zimbabwe open-source community
+## Zimbabwe developer community 🇿🇼
 
 <div align="center">
 
-[![Zimbabwe GitHub Ranking](https://user-badge.committers.top/zimbabwe/DilanTadiwaManyenya.svg)](https://committers.top/zimbabwe/DilanTadiwaManyenya)
+[![Zimbabwe ranking](https://user-badge.committers.top/zimbabwe/DilanTadiwaManyenya.svg)](https://committers.top/zimbabwe/DilanTadiwaManyenya)
 
 </div>
 
-## 💬 Let's connect
+## Let's connect
 
-I'm interested in collaborating on **web applications, education technology, practical software solutions and thoughtful frontend experiences**.
+I enjoy collaborating on **education technology, practical web apps, and accessible digital experiences**.
 
-- [GitHub](https://github.com/DilanTadiwaManyenya)
-- [New Way College — live project](https://newwaycollege.co.zw/)
-- **LinkedIn:** Add your exact profile URL here before publishing.
-- **Portfolio:** Add your dedicated developer portfolio URL here when ready.
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DilanTadiwaManyenya)
+[![New Way College](https://img.shields.io/badge/Live_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://newwaycollege.co.zw/)
 
----
+<!-- When ready, add your verified LinkedIn, portfolio, and contact links here. -->
 
 <div align="center">
 
-<sub>Designed with care · Built with curiosity · Always learning</sub>
+<sub>Designed with intention · Built with curiosity · Always improving</sub>
 
 </div>
-# Dilan-Tadiwa-Inno-Junior-Manyenya
