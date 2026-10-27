@@ -6,7 +6,7 @@
 
 **Tainttzar** · Harare, Zimbabwe 🇿🇼
 
-[![Explore Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](#-selected-work)
+[![Explore Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white)](#selected-work)
 [![Live Project](https://img.shields.io/badge/LIVE_PROJECT-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://newwaycollege.co.zw/)
 [![Follow](https://img.shields.io/badge/FOLLOW_ON_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DilanTadiwaManyenya)
 
@@ -45,9 +45,9 @@ I'm **Dilan Tadiwa Inno Junior Manyenya**, a software developer focused on respo
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🏫 Reliance Junior & High School</h3>
+<h3>🏫 Reliance Learning Centre</h3>
 <p>School website and evolving role-based portal for parents, learners, and administrators.</p>
-<p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code></p>
+<p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Supabase</code></p>
 <a href="https://github.com/DilanTadiwaManyenya/Reliance-junior-high-school"><strong>View repository →</strong></a>
 </td>
 <td width="50%" valign="top">
@@ -75,17 +75,17 @@ I'm **Dilan Tadiwa Inno Junior Manyenya**, a software developer focused on respo
 <td width="50%" valign="top">
 <h3>⚖️ Commissioner of Oaths</h3>
 <p>Service-oriented website with clear information architecture and booking-focused pages.</p>
+<p><code>React</code> <code>Tailwind CSS</code> <code>Supabase</code></p>
 <a href="https://github.com/DilanTadiwaManyenya/commissioner-of-oaths"><strong>View repository →</strong></a>
 </td>
 <td width="50%" valign="top">
 <h3>✂️ Locks Artistry</h3>
 <p>Hair and loc styling showcase with service information, galleries, and booking calls to action.</p>
+<p><code>React</code> <code>Tailwind CSS</code> <code>UI/UX</code></p>
 <a href="https://github.com/DilanTadiwaManyenya/Locks-Artistry"><strong>View repository →</strong></a>
 </td>
 </tr>
 </table>
-
-> **Visual upgrade coming next:** Add real project screenshots to each repository README. Screenshots are intentionally not fabricated here.
 
 ## GitHub activity
 
@@ -108,10 +108,9 @@ I'm **Dilan Tadiwa Inno Junior Manyenya**, a software developer focused on respo
 
 I enjoy collaborating on **education technology, practical web apps, and accessible digital experiences**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DilanTadiwaManyenya)
-[![New Way College](https://img.shields.io/badge/Live_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://newwaycollege.co.zw/)
+📧 dilantadiwamanyenya@gmail.com · 💼 www.linkedin.com/in/dilan-tadiwa-inno-junior-manyenya-8192aa3b2 · 📄 file:///C:/Users/dilan/Downloads/Dilan%20Tadiwa%20Inno%20Junior%20Manyenya%20CV.pdf.pdf
 
-<!-- When ready, add your verified LinkedIn, portfolio, and contact links here. -->
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DilanTadiwaManyenya)
 
 <div align="center">
 
