@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:112B4A,100:2563EB&text=DILAN%20MANYENYA&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20React%20%7C%20JavaScript%20%7C%20Supabase&descAlignY=59&descSize=16&animation=fadeIn" alt="Dilan Tadiwa Inno Junior Manyenya — Software Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:112B4A,100:2563EB&text=DILAN%20MANYENYA&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20React%20%7C%20JavaScript%20%7C%20Supabase&descAlignY=59&descSize=16&animation=fadeIn" alt="Dilan-Tadiwa-Inno-Junior-Manyenya — Software Developer" width="100%" />
 
 ### Building useful software, one thoughtful experience at a time.
 
